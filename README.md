@@ -1,5 +1,7 @@
 # Rustic lang
 
+A compiled highlevel simple programming language write in rust. This project seeks to mirror the best that python and rust offer!
+
 ## Zen of Python
 
 - Beautiful is better than ugly.
@@ -30,6 +32,23 @@
 - Compilation error is better than runtime error
 
 
-  ## Rustic Characteristics
+## Rustic Characteristics
 
-  - 
+-
+
+## Basic sintax
+
+### Math
+
+### Conditions
+
+### Operators
+
+### Class
+
+### Function
+
+### Memory Management
+
+### Typing
+
